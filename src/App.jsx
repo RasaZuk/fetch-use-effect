@@ -1,13 +1,15 @@
+import { TestimonialsApp } from "./components/TestimonialsApp";
+
 
 function App() {
  
 
   return (
     <>
-    <div>TEST</div>
+    <TestimonialsApp/>
     </>
     
-  )
+  );
 }
 
 export default App
